@@ -1,5 +1,3 @@
-#ID 230360703
-#20.01.2026
 #Exercise 7
 import tkinter as tk
 from tkinter import messagebox
